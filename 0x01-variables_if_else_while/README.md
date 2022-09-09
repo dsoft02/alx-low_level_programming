@@ -19,4 +19,7 @@
 **Task 5 : Numbers**
 [5-print_numbers.c](./5-print_numbers.c) - program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
+**Task 6 : Numberz**
+[6-print_numberz.c](./6-print_numberz.c) - program that prints all single digit numbers of base 10 starting from 0, using putchar followed by a new line.
+
 
