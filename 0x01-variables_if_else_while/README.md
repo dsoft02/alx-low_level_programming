@@ -25,4 +25,9 @@
 **Task 7 : Smile in the mirror**
 [7-print_tebahpla.c](./7-print_tebahpla.c) - program that prints the lowercase alphabet in reverse using putchar, followed by a new line.
 
+**Task 9 : Patience, persistence and perspiration make an unbeatable combination for success**
+[9-print_comb.c](./9-print_comb.c) - program that prints all possible combinations of single-digit numbers using putchar
+ * Numbers must be separated by ,, followed by a space
+ * Numbers should be printed in ascending order
+
 
