@@ -9,4 +9,7 @@
 **Task 2 : I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
 [2-print_alphabet.c](./2-print_alphabet.c) - program that prints the alphabet in lowercase using putchar, followed by a new line.
 
+**Task 3 :  alphABET**
+[3-print_alphabets.c](./3-print_alphabets.c) - program that prints the alphabet in lowercase, and then in uppercase, using putchar followed by a new line.
+
 
