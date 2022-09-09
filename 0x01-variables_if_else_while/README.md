@@ -16,4 +16,7 @@
 [4-print_alphabt.c](4-print_alphabt.c) - program that prints the alphabet in lowercase using putchar, followed by a new line.
  * the program print all the letters except q and e
 
+**Task 5 : Numbers**
+[5-print_numbers.c](./5-print_numbers.c) - program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
 
