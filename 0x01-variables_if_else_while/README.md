@@ -30,4 +30,9 @@
  * Numbers must be separated by ,, followed by a space
  * Numbers should be printed in ascending order
 
+**Task 9 : Patience, persistence and perspiration make an unbeatable combination for success**
+[9-print_comb.c](./9-print_comb.c) - program that prints all possible combinations of single-digit numbers using putchar
+ * Numbers must be separated by ,, followed by a space
+ * Numbers should be printed in ascending order
+
 

@@ -11,9 +11,9 @@ int main(void)
 {
 	char alpha;
 
-	for(alpha = 'a'; alpha <= 'z'; alpha++)
+	for (alpha = 'a'; alpha <= 'z'; alpha++)
 	{
-		if(alpha == 'q' || alpha == 'e')
+		if (alpha == 'q' || alpha == 'e')
 			continue;
 		else
 			putchar(alpha);
