@@ -12,4 +12,8 @@
 **Task 3 :  alphABET**
 [3-print_alphabets.c](./3-print_alphabets.c) - program that prints the alphabet in lowercase, and then in uppercase, using putchar followed by a new line.
 
+**Task 4 : When I was having that alphabet soup, I never thought that it would pay off**
+[4-print_alphabt.c](4-print_alphabt.c) - program that prints the alphabet in lowercase using putchar, followed by a new line.
+ * the program print all the letters except q and e
+
 
