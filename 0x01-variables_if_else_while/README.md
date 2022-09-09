@@ -35,4 +35,12 @@
  * Numbers must be separated by ,, followed by a space
  * Numbers should be printed in ascending order
 
+**Task 10 : Inventing is a combination of brains and materials. The more brains you use, the less material you need**
+[10-print_comb2.c](./10-print_comb2.c) - program that prints all possible different combinations of two digits using putchar
+ * Numbers must be separated by ,, followed by a space
+ * The two digits must be different
+ * 01 and 10 are considered the same combination of the two digits 0 and 1
+ * Print only the smallest combination of two digits
+ * Numbers should be printed in ascending order, with two digits
+
 
