@@ -74,4 +74,8 @@ new line.
 **Task 13**
 [101-natura.c](./101-natural.c) - program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded)
 
+**Task 14**
+[102-fibonacci.c](./103-fibonacci.c) - program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+ * The numbers must be separated by comma, followed by a space
+
 
