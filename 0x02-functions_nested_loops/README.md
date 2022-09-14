@@ -82,3 +82,10 @@ new line.
 [103-fibonacci.c](./103-fibonacci.c) - program that finds and prints the sum of the even-valued terms, followed by a new line.
 
 
+**Task 16**
+[104-fibonacci.c](./104-fibonacci.c) - program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+ * The numbers should be separated by comma, followed by a space ,
+ * You are allowed to use the standard library
+ * You are not allowed to use any other library (You can’t use GMP etc…)
+ * You are not allowed to use long long, malloc, pointers, arrays/tables, or structures
+ * You are not allowed to hard code any Fibonacci number (except for 1 and 2)
