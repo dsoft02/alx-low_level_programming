@@ -78,4 +78,7 @@ new line.
 [102-fibonacci.c](./103-fibonacci.c) - program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
  * The numbers must be separated by comma, followed by a space
 
+**Task 15**
+[103-fibonacci.c](./103-fibonacci.c) - program that finds and prints the sum of the even-valued terms, followed by a new line.
+
 
