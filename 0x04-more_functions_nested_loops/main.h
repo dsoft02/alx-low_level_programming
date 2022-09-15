@@ -81,5 +81,11 @@ void print_square(int size);
  */
 void print_triangle(int size);
 
+/**
+ * print_number - function that prints an integer.
+ *
+ * @n: integer to print
+ */
+void print_number(int n);
 
 #endif
