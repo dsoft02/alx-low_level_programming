@@ -58,4 +58,13 @@ void more_numbers(void);
  */
 void print_line(int n);
 
+#include "main.h"
+/**
+ * print_diagonal - function that draws a diagonal line on the terminal.
+ *
+ * @n: number of times the character \ should be printed
+ */
+void print_diagonal(int n);
+
+
 #endif
