@@ -8,10 +8,18 @@
 int _putchar(char c);
 
 /**
- * _islower - prints if c is lower case
- * @c: character to use
- * Return: 1 or 0
+ * _isupper - determines uppercase or not
+ * @c: character to determine
+ * Return: true or false
  */
-int _islower(int c);
+int _isupper(int c);
+
+/**
+ * _isdigit - checks if it is digit
+ * @c: character to check
+ *
+ * Return: returns boolean
+ */
+int _isdigit(int c);
 
 #endif
