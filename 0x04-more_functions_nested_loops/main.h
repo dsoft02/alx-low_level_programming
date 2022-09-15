@@ -40,7 +40,7 @@ int mul(int a, int b);
 void print_numbers(void);
 
 /**
- * print_most_numbers - function that prints the numbers, from 0 to 9 (except 2 and 4)
+ * print_most_numbers - function that prints 0 to 9 (except 2 and 4)
  *
  */
 void print_most_numbers(void);
@@ -73,6 +73,13 @@ void print_diagonal(int n);
  * @size: integer to set the size of the square
  */
 void print_square(int size);
+
+/**
+ * print_triangle - function that prints a triangle
+ *
+ * @size: size of the triangle
+ */
+void print_triangle(int size);
 
 
 #endif
