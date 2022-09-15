@@ -1,9 +1,9 @@
 /**
- * _isdigit - determine if digit
+ * _isdigit - check if a value (c) is digit
  *
- * @c: character to determine
+ * @c: value to check
  *
- * Return: gives boolean
+ * Return: 1 if c is digit 0 otherwise
  */
 int _isdigit(int c)
 {
