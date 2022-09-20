@@ -55,6 +55,12 @@ void rev_string(char *s);
  */
 void puts2(char *str);
 
+/**
+ * puts_half - function that prints half of a string.
+ * @str: string to be printed
+ */
+void puts_half(char *str);
+
 
 
 #endif
