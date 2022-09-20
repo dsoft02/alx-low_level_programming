@@ -31,6 +31,12 @@ void swap_int(int *a, int *b);
  */
 int _strlen(char *s);
 
+/**
+ * _puts - function that prints a string
+ * @str: string to be printed
+ */
+void _puts(char *str);
+
 
 
 #endif
