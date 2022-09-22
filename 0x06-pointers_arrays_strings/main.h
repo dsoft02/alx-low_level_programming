@@ -28,6 +28,15 @@ char *_strcat(char *dest, char *src);
  */
 char *_strncat(char *dest, char *src, int n);
 
+/**
+ * _strncpy - function that copies a string.
+ * @dest: destination to copy
+ * @src: source to copy
+ * @n: amount of places to copy
+ * Return: value of dest
+ */
+char *_strncpy(char *dest, char *src, int n);
+
 
 
 
