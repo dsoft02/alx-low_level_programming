@@ -17,6 +17,17 @@ int _putchar(char c);
  */
 char *_strcat(char *dest, char *src);
 
+/**
+ * _strncat - function that concatenates two strings.
+ *
+ * @dest: destination of concat
+ * @src: source array to concat
+ * @n: amount of times to append
+ *
+ * Return: pointer to the resulting string dest
+ */
+char *_strncat(char *dest, char *src, int n);
+
 
 
 
