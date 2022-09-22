@@ -62,6 +62,20 @@ void reverse_array(int *a, int n);
  */
 char *string_toupper(char *s);
 
+/**
+ * _indexOf - returns boolean if special  character
+ * @a: character to return
+ * Return: true or false
+ */
+int _indexOf(char a);
+
+/**
+ * cap_string - function that capitalizes all words of a string.
+ * @s: string
+ * Return: the string capitalized
+ */
+char *cap_string(char *s);
+
 
 
 
