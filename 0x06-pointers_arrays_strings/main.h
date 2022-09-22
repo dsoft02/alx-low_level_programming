@@ -91,6 +91,13 @@ char *leet(char *s);
  */
 char *rot13(char *s);
 
+/**
+ * print_number - function that prints an integer.
+ * @n:integer to convert to character
+ *
+ */
+void print_number(int n);
+
 
 
 
