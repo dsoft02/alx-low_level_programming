@@ -76,6 +76,14 @@ int _indexOf(char a);
  */
 char *cap_string(char *s);
 
+/**
+ * leet - function that encodes a string into 1337.
+ * @s: string
+ *
+ * Return: char value
+ */
+char *leet(char *s);
+
 
 
 
