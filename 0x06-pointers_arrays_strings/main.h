@@ -109,5 +109,20 @@ void print_number(int n);
  */
 char *infinite_add(char *n1, char *n2, char *r, int size_r);
 
+/**
+* print_line - prints a s bytes of a buffer
+* @c: buffer to print
+* @s: bytes of buffer to print
+* @l: line of buffer to print
+*/
+void print_line(char *c, int s, int l);
+
+/**
+* print_buffer - prints a buffer
+* @b: buffer to print
+* @size: size of buffer
+*/
+void print_buffer(char *b, int size);
+
 
 #endif
