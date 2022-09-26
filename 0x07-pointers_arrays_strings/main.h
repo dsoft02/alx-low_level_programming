@@ -17,4 +17,14 @@ int _putchar(char c);
 char *_memset(char *s, char b, unsigned int n);
 
 
+/**
+ * _memcpy - copies from source to dest values in array
+ * @dest: destination to copy to
+ * @src: source to copy from
+ * @n: number areas to copy
+ * Return: pointer to dest
+ */
+char *_memcpy(char *dest, char *src, unsigned int n);
+
+
 #endif
