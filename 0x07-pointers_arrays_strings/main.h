@@ -45,4 +45,14 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 
 
+/**
+ * _strpbrk - finds string
+ * @s: string to find stuff
+ * @accept: accepting arrays
+ *
+ * Return: returns new value
+ */
+char *_strpbrk(char *s, char *accept);
+
+
 #endif
