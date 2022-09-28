@@ -35,5 +35,14 @@ int _strlen_recursion(char *s);
  */
 int factorial(int n);
 
+/**
+ * _pow_recursion - function that returns
+ * the  value of x raise to the power of y
+ * @x: the base number
+ * @y: the power
+ * Return: returns the value of x raise to power y
+ */
+int _pow_recursion(int x, int y);
+
 
 #endif
