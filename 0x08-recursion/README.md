@@ -4,4 +4,6 @@
 
 [1-print_rev_recursion](./1-print_rev_recursion) - function that prints a string in reverse.
 
+[2-strlen_recursion.c](./2-strlen_recursion.c) - function that returns the length of a string.
+
 
