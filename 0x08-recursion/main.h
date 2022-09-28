@@ -52,5 +52,14 @@ int _pow_recursion(int x, int y);
  */
 int _sqrt_recursion(int n);
 
+/**
+ * is_prime_number - function that returns 1
+ * if the input inger is a prime number otherwise return 0;
+ * @n: the number to check
+ *
+ * Return: 1 if n is prime 0 if otherwise
+ */
+int is_prime_number(int n);
+
 
 #endif
