@@ -8,4 +8,6 @@
 
 [3-mul.c](./3-mul.c) - program that multiplies two numbers.
 
+[100-change.c](./100-change) - program that prints the minimum number of coins to make change for an amount of money.
+
 
