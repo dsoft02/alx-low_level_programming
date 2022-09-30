@@ -1,12 +1,10 @@
 #ifndef _MAIN_H_
 #define _MAIN_H_
 /**
- * main - main function
- * @argc: argument counts
- * @argv: array of arguments
- * Return: always 0
+ * StringCheck - checks string
+ * @s: string to check
+ * Return: boolean
  */
-int main(int argc, char *argv[]);
-
+int StringCheck(char *s);
 
 #endif
