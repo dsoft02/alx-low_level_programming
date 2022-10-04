@@ -12,4 +12,6 @@
 
 [100-argstostr.c](./100-argstostr.c) - function that concatenates all the arguments of your program.
 
+[101-strtow.c](./101-strtow.c) - function that splits a string into words.01~
+
 
