@@ -39,5 +39,13 @@ int **alloc_grid(int width, int height);
  */
 void free_grid(int **grid, int height);
 
+/**
+ * argstostr - function that concatenates all the arguments of program
+ * @ac: argument count
+ * @av: array of arguments
+ * Return: pointer to new string
+ */
+char *argstostr(int ac, char **av);
+
 
 #endif
