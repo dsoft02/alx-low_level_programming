@@ -4,4 +4,6 @@
 
 [1-init_dog.c](./1-init_dog.c) -  function that initialize a variable of type struct dog
 
+[2-print_dog.c](./2-print_dog.c) - function that prints a struct dog
+
 
