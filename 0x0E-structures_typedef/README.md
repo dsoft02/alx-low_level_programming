@@ -8,4 +8,4 @@
 
 [4-new_dog.c](./4-new_dog.c) - function that creates a new dog.
 
-
+[5-free_dog.c](./5-free_dog.c) - 

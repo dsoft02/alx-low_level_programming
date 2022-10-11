@@ -37,4 +37,10 @@ typedef struct dog dog_t;
  * @owner: dog owner
  */
 dog_t *new_dog(char *name, float age, char *owner);
+
+/**
+ * free_dog - function that frees dog
+ * @d: dog to free
+ */
+void free_dog(dog_t *d);
 #endif
