@@ -6,4 +6,6 @@
 
 [2-print_dog.c](./2-print_dog.c) - function that prints a struct dog
 
+[4-new_dog.c](./4-new_dog.c) - function that creates a new dog.
+
 
