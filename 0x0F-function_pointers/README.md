@@ -14,4 +14,5 @@
 
 [3-calc.h](./3-calc.h) - file that ontain all the function prototypes and data structures used by the program.
 
+[100-main_opcodes.c](./100-main_opcodes.c) - program that prints the opcodes of its own main function.
 
