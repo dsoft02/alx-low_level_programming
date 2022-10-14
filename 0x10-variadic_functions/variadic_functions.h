@@ -25,5 +25,44 @@ void print_numbers(const char *separator, const unsigned int n, ...);
  */
 void print_strings(const char *separator, const unsigned int n, ...);
 
+/**
+ * print_all - prints all
+ * @format: format string that says arg types
+ *
+ */
+void print_all(const char * const format, ...);
 
+/**
+ * print_c - prints char
+ * @a: list to give
+ * Return: always 0
+ */
+int print_c(va_list a);
+
+/**
+ * print_i - prints int
+ * @a: list to give
+ * Return: always 0
+ */
+int print_i(va_list a);
+
+/**
+ * print_f - prints float
+ * @a: list to give
+ * Return: always 0
+ */
+int print_f(va_list a);
+
+/**
+ * print_s - prints string
+ * @a: list to give
+ * Return: always 0
+ */
+int print_s(va_list a);
+
+typedef struct op
+{
+	char *c;
+	int (*f)(va_list a);
+} printer;
 #endif

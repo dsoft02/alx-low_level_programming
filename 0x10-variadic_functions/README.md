@@ -6,4 +6,5 @@
 
 [2-print_strings.c](./2-print_strings.c) - function that prints strings, followed by a new line.
 
+[3-print_all.c](./3-print_all.c) - function that prints anything.
 
