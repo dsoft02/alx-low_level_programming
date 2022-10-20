@@ -11,4 +11,5 @@
 ### Task 2
 [2-add_node.c](./2-add_node.c) - function that adds a new node at the beginning of a list_t list.
 
+[3-add_node_end.c](./3-add_node_end.c) - function that adds a new node at the end of a list_t list.
 
