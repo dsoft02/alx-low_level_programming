@@ -1,9 +1,11 @@
 #include "main.h"
 #include "2-get_bit.c"
 /**
- * set_bit - sets a bit
- * @n: integer to grab 
+ * set_bit - function that sets a bit
+ * @n: pointer to the integers
+ * @index: the index of the bit to set
  *
+ * Return: 1 if it worked or -1 if an error occured
  */
 int set_bit(unsigned long int *n, unsigned int index)
 {
