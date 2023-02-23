@@ -141,3 +141,36 @@ A Makefile consists of a set of rules. A rule generally looks like this: targets
         <li><p>You are not allowed to have a list of all the <code>.o</code> files</p></li>
     </ul>
 </details>
+
+---
+
+## **Task 5-island_perimeter.py**
+[5-island_perimeter.py](./5-island_perimeter.py)
+
+<details>
+    <summary><strong>Technical interview preparation:</strong></summary>
+    <ul>
+        <li>You are not allowed to google anything</li>
+        <li>Whiteboard first</li>
+    </ul>
+    <p>Create a function <code>def island_perimeter(grid):</code> that returns the perimeter of the island described in <code>grid</code>:</p>
+    <ul>
+        <li><code>grid</code> is a list of list of integers:
+            <ul>
+                <li>0 represents a water zone</li>
+                <li>1 represents a land zone</li>
+                <li>One cell is a square with side length 1</li>
+                <li>Grid cells are connected horizontally/vertically (not diagonally). </li>
+                <li>Grid is rectangular, width and height don’t exceed 100</li>
+            </ul>
+        </li>
+        <li>Grid is completely surrounded by water, and there is one island (or nothing).</li>
+        <li>The island doesn’t have “lakes” (water inside that isn’t connected to the water around the island).</li>
+    </ul>
+    <p>Requirements:</p>
+    <ul>
+        <li>First line contains <code>#!/usr/bin/python3</code></li>
+        <li>You are not allowed to import any module</li>
+        <li>Module and function must be documented</li>
+    </ul>
+</details>
