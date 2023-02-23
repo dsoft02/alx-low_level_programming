@@ -107,3 +107,37 @@ A Makefile consists of a set of rules. A rule generally looks like this: targets
         <li>You are not allowed to have a list of all the .o files</li>
     </ul>
 </details>
+
+---
+
+## **Task 4 - A complete Makefile**
+[4-Makefile](./4-Makefile)
+
+<details>
+    <summary><strong>Requirements:</strong></summary>
+    <ul>
+        <li>name of the executable: <code>school</code></li>
+        <li>rules: <code>all</code>, <code>clean</code>, <code>fclean</code>, <code>oclean</code>, <code>re</code>
+            <ul>
+                <li><code>all</code>: builds your executable</li>
+                <li><code>clean</code>: deletes all Emacs and Vim temporary files along with the executable</li>
+                <li><code>oclean</code>: deletes the object files</li>
+                <li><code>fclean</code>: deletes all Emacs and Vim temporary files, the executable, and the object files</li>
+                <li><code>re</code>: forces recompilation of all source files</li>
+            </ul>
+        </li>
+        <li>variables: <code>CC</code>, <code>SRC</code>, <code>OBJ</code>, <code>NAME</code>, <code>RM</code>, <code>CFLAGS</code>
+            <ul>
+                <li><code>CC</code>: the compiler to be used</li>
+                <li><code>SRC</code>: the <code>.c</code> files</li>
+                <li><code>OBJ</code>: the <code>.o</code> files</li>
+                <li><code>NAME</code>: the name of the executable</li>
+                <li><code>RM</code>: the program to delete files</li>
+                <li><code>CFLAGS</code>: your favorite compiler flags: <code>-Wall -Werror -Wextra -pedantic</code></li>
+            </ul>
+        </li>
+        <li>The <code>all</code> rule should recompile only the updated source files</li>
+        <li><p>The <code>clean</code>, <code>oclean</code>, <code>fclean</code>, <code>re</code> rules should never fail</p></li>
+        <li><p>You are not allowed to have a list of all the <code>.o</code> files</p></li>
+    </ul>
+</details>
